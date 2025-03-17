@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Oguzhan</h1>
-<h3 align="center">machine learning eng.</h3>
+<h3 align="center">machine learning engineer</h3>
 
 - 🔭 I’m currently working on **machine learning**
 
