@@ -1,6 +1,4 @@
 
-![MasterHead]()
-
 
 
 <h1 align="center">Hi 👋, I'm Oguzhan</h1>
