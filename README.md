@@ -2,13 +2,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Oguzhan</h1>
-<h3 align="center">machine learning engineer</h3>
+<h3 align="center">Computer Engineer</h3>
 
-- 🔭 I’m currently working on **machine learning**
+- 🔭 I’m currently working on **.Net Core**
 
-- 🌱 I’m currently learning **deep learning**
-
-- 💬 Ask me about **python**
+- 🌱 I’m currently learning **AI - Machine Learning**
 
 - 📫 How to reach me **oguzh.keskn@gmail.com**
 
